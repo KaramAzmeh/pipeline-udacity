@@ -46,7 +46,7 @@ class App extends Component {
               history.push('/')
             }}
           />
-        )}/>
+        )}/> <h1> This is a new Update </h1>
       </div>
     )
   }
